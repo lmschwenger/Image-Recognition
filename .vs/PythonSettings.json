@@ -1,0 +1,4 @@
+{
+  "TestFramework": "unittest",
+  "Interpreter": "..\\..\\venvs\\IR\\Scripts\\python.exe"
+}
